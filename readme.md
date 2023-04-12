@@ -133,7 +133,6 @@
     &emsp;
 <a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="40" height="40"/>
 </p> -->
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Elyablegese's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&langs_count=8&layout=compact&hide_border=true" alt="Elyablegese's GitHub stats" /> |
-| ------------- | ------------- |
+
 
 ![Profile views](https://gpvc.arturio.dev/Royalboe)
