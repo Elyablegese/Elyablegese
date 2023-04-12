@@ -116,23 +116,7 @@
 
 <br/>  
 
-### Some Statistics
-![Github stats](https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&theme=highcontrast)
-
-<!-- ## 🛠️ My Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
-### 👉 Frontend Development
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-		&emsp;
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    &emsp;
-<a href="https://www.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" width="40" height="40"/>
-</p> -->
-
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Elyablegese's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&langs_count=8&layout=compact&hide_border=true" alt="Elyablegese's GitHub stats" /> |
+| ------------- | ------------- |
 
 ![Profile views](https://gpvc.arturio.dev/Royalboe)
