@@ -115,6 +115,25 @@
 </td></tr></table>  
 
 <br/>  
+Copyright (c) 2023 Elyab legese
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of any projects and associated documentation files , to deal in the projects 
+without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the projects, and to permit persons to whom the projects is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the project and or any Documentation.
+
+THIS GITHUB PAGE and PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+PROJECTS.
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Elyablegese's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&langs_count=8&layout=compact&hide_border=true" alt="Elyablegese's GitHub stats" /> |
 | ------------- | ------------- |
