@@ -135,16 +135,7 @@ I’m ElyabLegese
 # [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
-</div>
-
-
-### :man_technologist: About Me :
-
-- 👋 Hi there, I’m Elyab  
-- 👀 I love to explore my interests in Programming  
-- 🌱 Software Engineering  
-- 💞️ I’m looking for mentors who can guide me through this fantastic journey  
-  
+</div>  
 
 <img src="https://komarev.com/ghpvc/?bedzon94=Elyablegese&style=flat-square&color=blue" alt=""/>
 
@@ -154,11 +145,7 @@ I’m ElyabLegese
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Elyablegese&theme=dark&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
 
-##   
-
-### :hammer_and_wrench: Languages:
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elyablegese)](https://github.com/Elyablegese/github-readme-stats)
+##
 
 Copyright (c) 2023 Elyab legese
 
