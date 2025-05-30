@@ -1,4 +1,9 @@
-- 👋 Hi there, I’m ElyabLegese
+- ##
+<h1>
+  Hi there,
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
+I’m ElyabLegese
+</h1>
 
 - 👀 I’m interested in learning coding and Data Science skills and pentesting to check for vulnerabilities...
 
@@ -132,11 +137,6 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
 </div>
 
-##
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
-</h1>
 
 ### :man_technologist: About Me :
 
