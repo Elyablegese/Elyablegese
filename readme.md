@@ -16,39 +16,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-  # [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
-</div>
-
-##
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
-</h1>
-
-### :man_technologist: About Me :
-
-- 👋 Hi there, I’m Elyab  
-- 👀 I love to explore my interests in Programming  
-- 🌱 Software Engineering  
-- 💞️ I’m looking for mentors who can guide me through this fantastic journey  
   
-
-<img src="https://komarev.com/ghpvc/?bedzon94=Elyablegese&style=flat-square&color=blue" alt=""/>
-
-![](https://komarev.com/ghpvc/?username=Elyablegese)
-
-##   
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Elyablegese&theme=dark&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
-
-##   
-
-### :hammer_and_wrench: Languages:
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elyablegese)](https://github.com/Elyablegese/github-readme-stats)
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -159,6 +127,38 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Elyablegese's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&langs_count=8&layout=compact&hide_border=true" alt="Elyablegese's GitHub stats" /> |
 
+# [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
+</div>
+
+##
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"  width="30px"/>
+</h1>
+
+### :man_technologist: About Me :
+
+- 👋 Hi there, I’m Elyab  
+- 👀 I love to explore my interests in Programming  
+- 🌱 Software Engineering  
+- 💞️ I’m looking for mentors who can guide me through this fantastic journey  
+  
+
+<img src="https://komarev.com/ghpvc/?bedzon94=Elyablegese&style=flat-square&color=blue" alt=""/>
+
+![](https://komarev.com/ghpvc/?username=Elyablegese)
+
+##   
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Elyablegese&theme=dark&date_format=j%20M%5B%20Y%5D&type=png)](https://git.io/streak-stats)
+
+##   
+
+### :hammer_and_wrench: Languages:
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Elyablegese)](https://github.com/Elyablegese/github-readme-stats)
 
 Copyright (c) 2023 Elyab legese
 
