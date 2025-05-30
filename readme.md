@@ -5,6 +5,15 @@
 I’m ElyabLegese
 </h1>
 
+# [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
+</div>  
+
+<img src="https://komarev.com/ghpvc/?bedzon94=Elyablegese&style=flat-square&color=blue" alt=""/>
+
+![](https://komarev.com/ghpvc/?username=Elyablegese)
+
 - 👀 I’m interested in learning coding and Data Science skills and pentesting to check for vulnerabilities...
 
 - 🌱 I’m currently learning software engineering and stack devlopment...
@@ -132,14 +141,6 @@ I’m ElyabLegese
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&show_icons=true" alt="Elyablegese's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&langs_count=8&layout=compact&hide_border=true" alt="Elyablegese's GitHub stats" /> |
 
-# [Elyablegese.github.io](https://github.com/Elyablegese/Amharic-character-generation)     
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"  width="600" height="300"/>
-</div>  
-
-<img src="https://komarev.com/ghpvc/?bedzon94=Elyablegese&style=flat-square&color=blue" alt=""/>
-
-![](https://komarev.com/ghpvc/?username=Elyablegese)
 
 ##   
 
