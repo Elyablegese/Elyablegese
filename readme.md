@@ -67,8 +67,6 @@ I'm a passionate software engineer specializing in full-stack development, AI/ML
 ### 🤖 Amharic Character Generation
 **Character-level GPT model for Amharic text generation**
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Elyablegese&repo=Amharic-character-generation&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
-
 **Highlights:**
 - 🧠 Transformer Decoder Architecture from scratch
 - 🔤 Character-level Tokenization for Amharic
@@ -97,35 +95,6 @@ I'm a passionate software engineer specializing in full-stack development, AI/ML
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Elyablegese&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elyablegese&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com?user=Elyablegese&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Elyablegese&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Elyablegese/Elyablegese/output/snake.svg" alt="Snake Animation" />
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Elyablegese&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
